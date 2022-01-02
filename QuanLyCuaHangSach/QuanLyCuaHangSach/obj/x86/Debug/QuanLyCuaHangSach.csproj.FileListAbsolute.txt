@@ -1,0 +1,16 @@
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\QuanLyCuaHangSach.exe
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\QuanLyCuaHangSach.pdb
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\devcomponents.dotnetbar2.dll
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\x86\Debug\QuanLyCuaHangSach.csproj.ResolveComReference.cache
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\x86\Debug\QuanLyCuaHangSach.Frm_Book.resources
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\x86\Debug\QuanLyCuaHangSach.Frm_Employee.resources
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\x86\Debug\QuanLyCuaHangSach.Frm_KH.resources
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\x86\Debug\QuanLyCuaHangSach.Frm_Login.resources
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\x86\Debug\QuanLyCuaHangSach.Frm_Main.resources
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\x86\Debug\QuanLyCuaHangSach.Properties.Resources.resources
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\x86\Debug\QuanLyCuaHangSach.ReEnterPass.resources
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\x86\Debug\QuanLyCuaHangSach.Splash.resources
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\x86\Debug\QuanLyCuaHangSach.csproj.GenerateResource.Cache
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\x86\Debug\QuanLyCuaHangSach.exe
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\x86\Debug\QuanLyCuaHangSach.pdb
+C:\Users\CNC\Documents\Visual Studio 2010\Projects\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\x86\Debug\QuanLyCuaHangSach.csprojResolveAssemblyReference.cache
